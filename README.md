@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pastordeli
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# CSE430
+This repository is for the web full-stack development fundamental class...
+>>>>>>> 84b93f6caa3058bbc9bcd5e07dbe0f333fdbd98e
